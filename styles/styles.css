@@ -1,0 +1,35 @@
+.navbar-dark, .footer {
+  background: linear-gradient(to bottom, #c50e29,#ff5252 );
+  background-scolor:  #c50e29;
+  color: floralwhite;
+}
+a{
+  color:floralwhite !important;
+}
+
+.row-header {
+  margin: 0px auto;
+  padding: 0px 0px;}
+
+.jumbotron {
+    margin: 0px auto;
+    padding-top: 90px;
+    background: #ff5252;
+    color: floralwhite;
+}
+.grey-text{
+  color: grey;
+}
+.icon-text{
+  color: #c50e29;
+}
+.card .img{
+  height:
+}
+.shadow{
+   box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2), 0 12px 20px 0 rgba(0, 0, 0, 0.19);
+}
+h1{
+  font-family: 'Pacifico', cursive;
+  font-size: 7em;
+}
